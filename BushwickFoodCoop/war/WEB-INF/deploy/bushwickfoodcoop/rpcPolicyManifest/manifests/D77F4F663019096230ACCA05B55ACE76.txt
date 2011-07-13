@@ -1,0 +1,2 @@
+serviceClass: org.bfc.inventory.gwt.client.service.BfcService
+path: C99FA0D6E8861B589B561418B39CA7F3.gwt.rpc
